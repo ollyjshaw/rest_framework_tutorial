@@ -1,0 +1,4 @@
+{
+  "python.pythonPath": "/Users/olivershaw/projects/venvs/restfw/bin/python3",
+  "python.linting.pylintArgs": ["--load-plugins=pylint_django"]
+}
